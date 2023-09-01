@@ -16,6 +16,7 @@
     "@ckeditor/ckeditor5-dev-utils": "^38.4.0",
     "@ckeditor/ckeditor5-editor-classic": "^39.0.1",
     "@ckeditor/ckeditor5-essentials": "^39.0.1",
+    "@ckeditor/ckeditor5-heading": "^39.0.1",
     "@ckeditor/ckeditor5-image": "^39.0.1",
     "@ckeditor/ckeditor5-link": "^39.0.1",
     "@ckeditor/ckeditor5-media-embed": "^39.0.1",
